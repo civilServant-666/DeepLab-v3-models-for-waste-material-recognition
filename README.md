@@ -8,7 +8,7 @@ The below figure shows some photos in the construction waste dataset, and their 
 In this folder, our optimal DeepLab v3+ model trained on construction waste images and the MINC material dataset is shared. In addition, two model checkpoints with the Xception and the ResNet backbones pretrained on the MINC are also presented. 
 
 The following table shows detailed specifications of the models:
-![alt text](https://github.com/aoifemcdonagh/material-segmentation/blob/master/src/pictures/demo_setup.png "model specification")
+![alt text](https://github.com/civilServant-666/DeepLab-v3-models-for-waste-material-recognition/blob/main/Model_specification.png "model specification")
 * The original DeepLab model backbone before training on our datasets can be found here:  https://github.com/tensorflow/models/blob/master/research/deeplab/g3doc/model_zoo.md
 
 ## In the "dataset" folder
